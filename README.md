@@ -52,6 +52,8 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ## Case studies
 
+- 2016 - Roshchupkin - [Heritability of the shape of subcortical brain structures in the general population](https://www.nature.com/articles/ncomms13738)
+- 2018 - Elliot - [Genome-wide association studies of brain imaging phenotypes in UK Biobank](https://www.nature.com/articles/s41586-018-0571-7#Sec8)
 - 2019 - Fatumo - [Complimentary Methods for Multivariate Genome-Wide Association Study Identify New Susceptibility Genes for Blood Cell Traits](https://www.frontiersin.org/articles/10.3389/fgene.2019.00334/full)
 
 ## Benchmarks and reviews
