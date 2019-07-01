@@ -25,6 +25,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2014 - Combined PC - Aschard - [Maximizing the Power of Principal-Component Analysis of Correlated Phenotypes in Genome-wide Association Studies](https://www.sciencedirect.com/science/article/pii/S0002929714001189?via%3Dihub)
 - 2014 - mvLMM-GEMMA - Zhou - [Efficient Algorithms for Multivariate Linear Mixed Models in Genome-wide Association Studies](https://www.nature.com/articles/nmeth.2848)
 - 2015 - S<sub>Hom</sub> / S<sub>Het</sub> - Zhu - [Meta-analysis of Correlated Traits via Summary Statistics from GWASs with an Application in Hypertension](https://www.sciencedirect.com/science/article/pii/S0002929714004777)
+- 2015 - MGAS - van der Sluis - [MGAS: a powerful tool for multivariate gene-based genome-wide association analysis](https://academic.oup.com/bioinformatics/article/31/7/1007/181296)
 - 2016 - metaCCA - Cichonska - [metaCCA: summary statistics-based multivariate meta-analysis of genome-wide association studies using canonical correlation analysis](https://academic.oup.com/bioinformatics/article/32/13/1981/1742730)
 - 2016 - HASE - Roshchupkin - [HASE: Framework for efficient high-dimensional association analyses](https://www.nature.com/articles/srep36076)
 - 2018 - PCA-based GWAS - Zhang - [PCA-Based Multiple-Trait GWAS Analysis: A Powerful Model for Exploring Pleiotropy](https://www.mdpi.com/2076-2615/8/12/239)
@@ -39,7 +40,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2019 - Fatumo - [Complimentary Methods for Multivariate Genome-Wide Association Study Identify New Susceptibility Genes for Blood Cell Traits](https://www.frontiersin.org/articles/10.3389/fgene.2019.00334/full)
 
 ## Benchmarks and reviews
-
+- 2010 - Minica - [Genetic Association in Multivariate Phenotypic Data: Power in Five Models](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/genetic-association-in-multivariate-phenotypic-data-power-in-five-models/A928605DBAE19EF371828BE6C77C11C0)
 - 2014 - Galesloot - [A Comparison of Multivariate Genome-Wide Association Methods](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095923)
 - 2017 - Porter - [Multivariate simulation framework reveals performance of multi-trait GWAS methods](https://www.nature.com/articles/srep38837)
 - 2019 - Couvy-Duchesne - [A Fast Method for Estimating Statistical Power of Multivariate GWAS in Real Case Scenarios: Examples from the Field of Imaging Genetics](https://link.springer.com/article/10.1007%2Fs10519-018-9936-9)
