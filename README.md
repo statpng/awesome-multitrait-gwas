@@ -17,6 +17,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2007 - MV-SNPTEST - Marchini - [A new multipoint method for genome-wide association studies by imputation of genotypes](https://www.nature.com/articles/ng2088)
 - 2007 - PCHAT - Klei - [Pleiotropy and principal components of heritability combine to increase power for association analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.20257)
 - 2009 - MV-PLINK - Ferreira - [A multivariate test of association](https://academic.oup.com/bioinformatics/article/25/1/132/301513)
+- 2009 - CMV - Medland - [An integrated phenomic approach to multivariate allelic association](https://www.nature.com/articles/ejhg2009133)
 - 2010 - METAL - Willer - [METAL: fast and efficient meta-analysis of genomewide association scans](https://academic.oup.com/bioinformatics/article/26/17/2190/198154)
 - 2012 - MultiPhen - O'Reilly [MultiPhen: Joint Model of Multiple Phenotypes Can Increase Discovery in GWAS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034861)
 - 2013 - MV-BIMBAM - Stephens - [A Unified Framework for Association Analysis with Multiple Related Phenotypes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065245)
@@ -41,3 +42,4 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 - 2014 - Galesloot - [A Comparison of Multivariate Genome-Wide Association Methods](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095923)
 - 2017 - Porter - [Multivariate simulation framework reveals performance of multi-trait GWAS methods](https://www.nature.com/articles/srep38837)
+- 2019 - Couvy-Duchesne - [A Fast Method for Estimating Statistical Power of Multivariate GWAS in Real Case Scenarios: Examples from the Field of Imaging Genetics](https://link.springer.com/article/10.1007%2Fs10519-018-9936-9)
