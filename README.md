@@ -45,7 +45,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2015 - MGAS - van der Sluis - [MGAS: a powerful tool for multivariate gene-based genome-wide association analysis](https://academic.oup.com/bioinformatics/article/31/7/1007/181296)
 - 2016 - metaCCA - Cichonska - [metaCCA: summary statistics-based multivariate meta-analysis of genome-wide association studies using canonical correlation analysis](https://academic.oup.com/bioinformatics/article/32/13/1981/1742730)
 - 2018 - MTAG - Turley - [Multi-trait analysis of genome-wide association summary statistics using MTAG](https://www.nature.com/articles/s41588-017-0009-4)
--2019 - metaPhat - Lin - [MetaPhat: Detecting and decomposing multivariate associations from univariate genomewide association statistics](https://www.biorxiv.org/content/10.1101/661421v1)
+- 2019 - metaPhat - Lin - [MetaPhat: Detecting and decomposing multivariate associations from univariate genomewide association statistics](https://www.biorxiv.org/content/10.1101/661421v1)
 
 ### Other tests
 
@@ -59,6 +59,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ## Case studies
 
+- 2012 - Inouye - [Novel Loci for Metabolic Networks and Multi-Tissue Expression Studies Reveal Genes for Atherosclerosis](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002907#s4)
 - 2016 - Roshchupkin - [Heritability of the shape of subcortical brain structures in the general population](https://www.nature.com/articles/ncomms13738)
 - 2018 - Elliot - [Genome-wide association studies of brain imaging phenotypes in UK Biobank](https://www.nature.com/articles/s41586-018-0571-7#Sec8)
 - 2018 - Claes - [Genome-wide mapping of global-to-local genetic effects on human facial shape](https://www.nature.com/articles/s41588-018-0057-4#Sec13)
