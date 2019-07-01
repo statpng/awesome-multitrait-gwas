@@ -20,6 +20,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 - 2012 - MatrixEQTL - Shabalin - [Matrix eQTL: ultra fast eQTL analysis via large matrix operations](https://academic.oup.com/bioinformatics/article/28/10/1353/213326)
 - 2016 - HASE - Roshchupkin - [HASE: Framework for efficient high-dimensional association analyses](https://www.nature.com/articles/srep36076)
+- 2017 - BGENIE - Bycroft - [Genome-wide genetic data on ~500,000 UK Biobank participants](https://www.biorxiv.org/content/early/2017/07/20/166298)
 
 ### Direct methods
 
