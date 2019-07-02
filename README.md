@@ -54,9 +54,12 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ### Genetic correlation
 
-
 - 2015 - LD score regression - Bulik-Sullivan - [An atlas of genetic correlations across human diseases and traits](https://www.nature.com/articles/ng.3406)
 - 2015 - BOLT-REML - Loh - [Contrasting genetic architectures of schizophrenia and other complex diseases using fast variance-components analysis](https://www.nature.com/articles/ng.3431)
+
+### Imputation
+
+- 2016 - PHENIX - Dahl - [A multiple-phenotype imputation method for genetic studies](https://www.nature.com/articles/ng.3513)
 
 ## Case studies
 
