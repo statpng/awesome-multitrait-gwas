@@ -78,6 +78,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ## Benchmarks and reviews
 - 2010 - Minica - [Genetic Association in Multivariate Phenotypic Data: Power in Five Models](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/genetic-association-in-multivariate-phenotypic-data-power-in-five-models/A928605DBAE19EF371828BE6C77C11C0)
+- 2012 - Shriner - [Moving toward system genetics through multiple trait analysis in genome-wide association studies](https://www.frontiersin.org/articles/10.3389/fgene.2012.00001/full)
 - 2013 - Solovieff - [Pleiotropy in complex traits: challenges and strategies](https://www.nature.com/articles/nrg3461)
 - 2014 - Galesloot - [A Comparison of Multivariate Genome-Wide Association Methods](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095923)
 - 2017 - Porter - [Multivariate simulation framework reveals performance of multi-trait GWAS methods](https://www.nature.com/articles/srep38837)
