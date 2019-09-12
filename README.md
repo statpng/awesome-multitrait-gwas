@@ -28,8 +28,10 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2007 - MV-SNPTEST - Marchini - [A new multipoint method for genome-wide association studies by imputation of genotypes](https://www.nature.com/articles/ng2088)
 - 2012 - MultiPhen - O'Reilly [MultiPhen: Joint Model of Multiple Phenotypes Can Increase Discovery in GWAS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034861)
 - 2012 - MTMM - Korte - [A mixed-model approach for genome-wide association studies of correlated traits in structured populations](https://www.nature.com/articles/ng.2376)
+- 2013 - BSLMM - Zhou - [Polygenic Modeling with Bayesian Sparse Linear Mixed Models](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003264)
 - 2013 - MV-BIMBAM - Stephens - [A Unified Framework for Association Analysis with Multiple Related Phenotypes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065245)
 - 2014 - mvLMM-GEMMA - Zhou - [Efficient Algorithms for Multivariate Linear Mixed Models in Genome-wide Association Studies](https://www.nature.com/articles/nmeth.2848)
+- 2015 - Ray - USAT - [USAT: A Unified Score‐Based Association Test for Multiple Phenotype‐Genotype Analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.21937)
 - 2018 - SBAT - Elliot - [Genome-wide association studies of brain imaging phenotypes in UK Biobank](https://www.nature.com/articles/s41586-018-0571-7)
 
 ### Indirect tests
@@ -41,6 +43,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ### Meta-analysis tests
 
+- 2011 - PRIMe - Huang - [PRIMe: a method for characterization and evaluation of pleiotropic regions from multiple genome-wide association studies](https://academic.oup.com/bioinformatics/article/27/9/1201/242517)
 - 2012 - Extended O'Briens methods - Yang - [Analyze multivariate phenotypes in genetic association studies by combining univariate association tests](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.20497)
 - 2010 - METAL - Willer - [METAL: fast and efficient meta-analysis of genomewide association scans](https://academic.oup.com/bioinformatics/article/26/17/2190/198154)
 - 2013 - TATES - van der Sluis - [TATES: Efficient Multivariate Genotype-Phenotype Analysis for Genome-Wide Association Studies](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003235)
@@ -50,10 +53,12 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2016 - metaCCA - Cichonska - [metaCCA: summary statistics-based multivariate meta-analysis of genome-wide association studies using canonical correlation analysis](https://academic.oup.com/bioinformatics/article/32/13/1981/1742730)
 - 2018 - MTAG - Turley - [Multi-trait analysis of genome-wide association summary statistics using MTAG](https://www.nature.com/articles/s41588-017-0009-4)
 - 2019 - metaPhat - Lin - [MetaPhat: Detecting and decomposing multivariate associations from univariate genomewide association statistics](https://www.biorxiv.org/content/10.1101/661421v1)
+- 2019 - meta-MultiSKAT - Dutta - [Meta‐MultiSKAT: Multiple phenotype meta‐analysis for region‐based association test](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22248)
 
 ### Other tests
 
 - 2009 - CMV - Medland - [An integrated phenomic approach to multivariate allelic association](https://www.nature.com/articles/ejhg2009133)
+- 2012 - PSEA - Ried - [PSEA: Phenotype Set Enrichment Analysis—A New Method for Analysis of Multiple Phenotypes](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.21617)
 
 ### Genetic correlation
 
@@ -74,6 +79,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 ### Rare variants
 
 - 2016 - GAMuT - Broadawy - [A Statistical Approach for Testing Cross-Phenotype Effects of Rare Variants](https://www.cell.com/ajhg/fulltext/S0002-9297(16)00052-5)
+- 2017 - DKAT - Zhan - [Powerful Genetic Association Analysis for Common or Rare Variants with High-Dimensional Structured Traits](https://www.genetics.org/content/206/4/1779.long)
 - 2018 - Multi-SKAT - Dutta - [Multi‐SKAT: General framework to test for rare‐variant association with multiple phenotypes](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22156)
 
 ## Case studies
