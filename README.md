@@ -101,6 +101,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2012 - Shriner - [Moving toward system genetics through multiple trait analysis in genome-wide association studies](https://www.frontiersin.org/articles/10.3389/fgene.2012.00001/full)
 - 2013 - Solovieff - [Pleiotropy in complex traits: challenges and strategies](https://www.nature.com/articles/nrg3461)
 - 2014 - Galesloot - [A Comparison of Multivariate Genome-Wide Association Methods](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095923)
+- 2017 - Hackinger - [Statistical methods to detect pleiotropy in human complex traits](https://royalsocietypublishing.org/doi/full/10.1098/rsob.170125?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&)
 - 2017 - Porter - [Multivariate simulation framework reveals performance of multi-trait GWAS methods](https://www.nature.com/articles/srep38837)
 - 2019 - Couvy-Duchesne - [A Fast Method for Estimating Statistical Power of Multivariate GWAS in Real Case Scenarios: Examples from the Field of Imaging Genetics](https://link.springer.com/article/10.1007%2Fs10519-018-9936-9)
 - 2019 - van Rheenen - [Genetic correlations of polygenic disease traits: from theory to practice](https://www.nature.com/articles/s41576-019-0137-z)
