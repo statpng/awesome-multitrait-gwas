@@ -109,3 +109,9 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2019 - van Rheenen - [Genetic correlations of polygenic disease traits: from theory to practice](https://www.nature.com/articles/s41576-019-0137-z)
 - 2019 - Ray - [Effect of non-normality and low count variants on cross-phenotype association tests in GWAS](https://www.nature.com/articles/s41431-019-0514-2)
 
+## Unsorted
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6477978/
+https://www.biorxiv.org/content/10.1101/758326v2.full.pdf
+https://www.nature.com/articles/s41467-018-05444-6
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4738479/
+https://www.ncbi.nlm.nih.gov/pubmed/30239606
